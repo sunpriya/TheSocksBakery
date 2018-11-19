@@ -1,0 +1,22 @@
+.image_style{
+	height: 50px;
+	width: 100%;
+	
+}
+#name,#city,#country,#price,#service{
+	font-size: 20px;
+	margin-left: 60px;
+}
+.img_display{
+	height: 220px;
+	width: 220px;
+	border-radius: 10%;
+	margin-left: 60px;
+}
+body{
+	background-color: 	#FFEBCD;
+}
+.butt{
+	height: 70px;
+	width: 180px;
+}
